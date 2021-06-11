@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mrstaker
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mr.staker.ltd
+  * I am mrstaker (https://keybase.io/mrstaker) on keybase.
+  * I have a public key ASCdpGlQyjQkXmLR4mDhiKlNsOsWzHm4mkdNGcf-3PzQYAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209da46950ca34245e62d1e260e188a94db0eb16cc79b89a474d19c7fedcfcd0600a",
+      "host": "keybase.io",
+      "kid": "01209da46950ca34245e62d1e260e188a94db0eb16cc79b89a474d19c7fedcfcd0600a",
+      "uid": "33aa62602b8d5fcf39fa8ab9343a9b19",
+      "username": "mrstaker"
+    },
+    "merkle_root": {
+      "ctime": 1619360909,
+      "hash": "3a2dfac4c0a12538077229d28851207b7b228761d3661c67fbcdaf9cd1d21f296a00c367bb6c614cedf702f3ded37bfa7ba01e38b7d416ce43a133f88ea4dab0",
+      "hash_meta": "aa6c721fd961ef622ab8ac0d5978fe586bdc0520692be543757ff325cc9281ba",
+      "seqno": 19738228
+    },
+    "service": {
+      "entropy": "+Twno/JwHwcgxA3hzkJ3gjyG",
+      "hostname": "mr.staker.ltd",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1619360950,
+  "expire_in": 504576000,
+  "prev": "f98360846c626e84b4f4603321430736a37b1fb521e026c47521d8ef0f5b9879",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnaRpUMo0JF5i0eJg4YipTbDrFsx5uJpHTRnH/tz80GAKp3BheWxvYWTESpcCDsQg+YNghGxiboS09GAzIUMHNqN7H7Uh4CbEdSHY7w9bmHnEIBbGC+C1zb0UaieuFQTponUi9vXy3qxz/2cfQuARhH/bAgHCo3NpZ8RAaunhHxgbqoSJDrdOCtHjc2FCr3OMUc7J7GlQfdNS6PmUIjolpPlSMeEOVziPAZ8T2skhFynLrPMfjPVQdXgyAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA4ZxQHLzARcFUzdkjTkyF6MFjZQE9ZHwoHUCZ4uo7kpo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mrstaker
+
+==================================================================
